@@ -20,3 +20,5 @@ un comportement d’assistance automatique dans un contexte d’ingénierie.
 ## 📈 État du projet
 🟡 En cours – phase de conception et simulation logicielle
 
+## 📌 Notes
+Première version stable du projet.
