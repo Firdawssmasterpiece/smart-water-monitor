@@ -22,3 +22,12 @@ un comportement d’assistance automatique dans un contexte d’ingénierie.
 
 ## 📌 Notes
 Première version stable du projet.
+
+---
+
+## ▶️ How to Run the Simulation
+1. Installer Python (version 3.11)
+2. Ouvrir le dossier `simulation`
+3. Exécuter le fichier :
+```bash
+python main.py
